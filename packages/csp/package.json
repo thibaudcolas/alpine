@@ -1,7 +1,7 @@
 {
-    "name": "@alpinejs/csp",
-    "version": "3.0.0-alpha.0",
-    "description": "A CSP compatible build of Alpine",
+    "name": "@thibaudcolas/alpinejs-csp-build",
+    "version": "0.0.0-experimental-d49a0b0-20220128",
+    "description": "Experimental one-off build for testing purposes - A CSP compatible build of Alpine",
     "author": "Caleb Porzio",
     "license": "MIT",
     "main": "dist/module.cjs.js",
